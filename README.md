@@ -1,6 +1,6 @@
 # JavaScript-DSA
  
-##Why Use JavaScript for DSA?
+## Why Use JavaScript for DSA?
 
 Versatility: JavaScript can be used on both client-side and server-side.
 Ease of Learning: Its simplicity makes it an ideal language for beginners.
